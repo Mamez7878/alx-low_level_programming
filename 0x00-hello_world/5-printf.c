@@ -1,15 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: A C code for printing message using printf()
+ * A C code that prints message using printf
  *
- * Return: Always 0 (Sucsess)
+ * Return 0 (Success)
  */
 
-int main(void)
-{
-	printf("with proper grammer, but the outcome is a piece of art,\n");
+int main(void) {
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }

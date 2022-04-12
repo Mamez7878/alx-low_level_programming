@@ -3,7 +3,9 @@
 /**
  * _islower - function identifies lowercase letters
  *
- * Return - Always 0 (succus)
+ * @c: an alphabet
+ *
+ * Return: 0 not lowercase 1 for lowercase
  */
 
 int _islower(int c)

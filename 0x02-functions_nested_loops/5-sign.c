@@ -5,7 +5,7 @@
  *
  * @n: a given number
  *
- * Return - return 1 if positive, 0 if zero and
+ * Return: return 1 if positive, 0 if zero and
  * -1 if negative
  */
 

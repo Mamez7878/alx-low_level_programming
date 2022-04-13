@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - function that differs lowercase and uppercase
+ * _isalpha - function that differs lower and uppercase
  *
  * @c: checks input of a function
  *
@@ -11,7 +11,7 @@
 
 int _isalpha(int c)
 {
-	if (c >= 65 && c <= 91) || (c>= 97 && c <= 123)
+	if (c >= 65 && c <= 91 && c >= 97 && c <= 123)
 		return (1);
 
 	return (0);

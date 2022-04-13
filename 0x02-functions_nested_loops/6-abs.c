@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * int _abs - Finding the absolute value of a given number
+ * _abs - Finding the absolute value of a given number
+ * 
+ * @n: a given number
  *
- * Return - Always 0
+ * Return: Always n
  */
 
 int _abs(int n)

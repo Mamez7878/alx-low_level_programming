@@ -8,8 +8,5 @@
 
 int _abs(int)
 {
-	int n;
-	n = abs(int n);
-
-	printf(n);
+	printf(abs(int n));
 }

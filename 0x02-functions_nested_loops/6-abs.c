@@ -2,7 +2,7 @@
 
 /**
  * _abs - Finding the absolute value of a given number
- * 
+ *
  * @n: a given number
  *
  * Return: Always n

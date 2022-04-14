@@ -1,6 +1,6 @@
 #include <stdio.h>
  /**
-  * largers_number - returns the largest of the 3
+  * largest_number - returns the largest of the 3
   * @a: first int
   * @b: second int
   * @c: third int

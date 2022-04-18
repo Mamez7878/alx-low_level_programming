@@ -12,7 +12,7 @@ void print_rev(char *s)
 
 	ldigit = *s % 10;
 
-	for (ldigit = 0; ldigit > *s; ldigit++)
+	for (ldigit = 0; ldigit < *s; ldigit--)
 		_putchar(ldigit + 0);
 	_putchar('\n');
 }

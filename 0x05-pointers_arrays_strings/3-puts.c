@@ -8,5 +8,9 @@
 
 void _puts(char *str)
 {
-	_putchar(str + 48);
+	int value;
+
+	value = *str;
+
+	_putchar(value + 48);
 }

@@ -6,7 +6,7 @@
  * @s: a string
  */
 
-int _strlen(int *s)
+int _strlen(char *s)
 {
 	strlen(s);
 }

@@ -8,20 +8,11 @@
 
 int main(void)
 {
-	int i = 'a';
-	int j = 'A';
+	int i, j;
 
-	while (i <= 'z')
-	{
+	for (i = 97; i <= 122; i++)
 		putchar(i + 48);
-		i++;
-	}
-	while (j <= 'Z')
-	{
+	for (i = 65; i <= 90; i++)
 		putchar(i + 48);
-		i++;
-	}
-	putchar('\n');
-
-	return 0;
+	return (0);
 }

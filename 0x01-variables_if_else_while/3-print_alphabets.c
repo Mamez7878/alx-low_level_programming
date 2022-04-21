@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - main function
+ *
+ * Return: 0
+ */
+
 int main(void)
 {
 	int i = 'a';
@@ -7,12 +13,12 @@ int main(void)
 
 	while (i <= 'z')
 	{
-		putchar(i);
+		putchar(i + 48);
 		i++;
 	}
 	while (j <= 'Z')
 	{
-		putchar(i);
+		putchar(i + 48);
 		i++;
 	}
 	putchar('\n');

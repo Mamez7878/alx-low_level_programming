@@ -1,14 +1,13 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * print_number - prints a number
- *
- * @n: a given number
+ *print_number - print a number using _putchar.
+ *@n: the number to be printed.
  */
 
 void print_number(int n)
 {
-	int i = 1;
+	unsigned int i = 1;
 
 	if (n < 0)
 	{

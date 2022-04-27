@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdiio.h>
+#include <stdio.h>
 
 /**
  * _pow_recursion - returns the value of x^y

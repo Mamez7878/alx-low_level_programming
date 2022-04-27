@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _puts_recusion - prints a string
+ * _puts_recursion - prints a string
  *
  * @s - a poiner of a string
  */

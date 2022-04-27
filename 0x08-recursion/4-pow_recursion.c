@@ -21,6 +21,7 @@ int _pow_recursion(int x, int y)
 	else if (y % 2 == 0)
 	{
 		int n = _pow_recursion(x, y / 2);
+
 		return (n * n);
 	}
 	else

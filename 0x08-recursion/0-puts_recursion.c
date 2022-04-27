@@ -4,7 +4,7 @@
 /**
  * _puts_recursion - prints a string
  *
- * @s - a poiner of a string
+ * @s: a poiner of a string
  */
 
 void _puts_recursion(char *s)

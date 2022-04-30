@@ -8,9 +8,8 @@
 
 int main(int argc, char **argv)
 {
-	char *c = argv[0];
+	printf("%s\n", argv[0]);
 
-	_putchar(*c);
-
+	(void)argc;
 	return (0);
 }

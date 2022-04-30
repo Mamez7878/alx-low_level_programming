@@ -3,6 +3,9 @@
 /**
  * main - entry point
  *
+ * @argc: argument counter
+ * @argv: argument holder
+ *
  * Return: 0
  */
 

@@ -2,7 +2,7 @@
 
 /**
  * *create_array - creats array,
- * 		initializes with character c
+ * initializes with character c
  *
  * @size: the array
  * @c: the specific character

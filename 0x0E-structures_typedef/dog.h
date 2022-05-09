@@ -7,6 +7,8 @@
  * @name: dog name
  * @age: dog age
  * @owner: owner
+ *
+ * Description: Long description
  */
 
 typedef struct dog

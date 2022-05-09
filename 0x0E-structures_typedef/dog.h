@@ -1,5 +1,5 @@
 #ifndef STRUCTS
-#define STRUNCTS
+#define STRUCTS
 
 /**
  * stuct dog - description for dog

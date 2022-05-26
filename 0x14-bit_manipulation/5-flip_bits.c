@@ -5,7 +5,7 @@
  *
  * @n: Number Input 1.
  * @m: Number Input 2
-
+ *
  * Return: Number of flip in the Input numbers.
  */
 
